@@ -1,4 +1,3 @@
-/**
  * @Auther: mengx
  * @Date: 2023/03/16/17:56
  * @Description:
@@ -7,11 +6,7 @@
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello, git1");
-        System.out.println("hello, git2");
-        System.out.println("hello, git3");
         System.out.println("hello, git4 by hot-fix");
-        System.out.println("hello, git5 by master");
-        System.out.println("hello, git6 by hot-fix");
 
 
     }
